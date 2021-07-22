@@ -1,22 +1,23 @@
-# REACT APP TEMPLATE
+# LABORATORY REACT D3.js
 
 ## Goal
 
-This project is a template for building react-app with all my favorite tools already configured.
-
-Obviously, the app is using the latest version of `react`. For avoiding the relative path, I modified the webpack and allowing the import with an alias. I also added the support for sass files.
-
-In addition, I added `prettier` and configured it for working well with `esLint`. Finally, I added the basic usefull package such as the router and the helmet.  
+This project is my testing with the d3.js library
 
 ## Plan of the presentation
 
 I explain with all the details how I build the project and my way of working.
 
+- [Experiences](#experiences)
 - [Documentation](#documentation)
 - [Organization](#organization)
 - [Development](#development)
 - [Running](#running)
 - [Commands](#commands)
+
+## Experiences
+
+- **Experience1**: Testing to show an image in the center inside the svg
 
 ## Documentation
 #### Code documentation
