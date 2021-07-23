@@ -20,6 +20,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience1**: Testing to show an image in the center inside the svg
 - **Experience2**: Testing the event mousemove by drawing a crosshair following the cursor
 - **Experience3**: Creating a bar chart in a div
+- **Experience3**: Creating a bar chart in a svg
 
 ## Documentation
 #### Code documentation
