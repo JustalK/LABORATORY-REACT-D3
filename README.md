@@ -22,6 +22,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience3**: Creating a bar chart in a div
 - **Experience4**: Creating a bar chart in a svg
 - **Experience5**: Creating a chart from a csv
+- **Experience6**: Rotating a bar chart
 
 ## Documentation
 #### Code documentation
