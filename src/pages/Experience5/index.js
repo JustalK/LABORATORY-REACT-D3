@@ -1,17 +1,17 @@
 /**
- * Testing to center an image in the svg
- * @module Experiences/Experience1
+ * Testing to get the data from a csv
+ * @module Experiences/Experience5
  */
 
 import React, { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 
 /**
- * @function Experience1
- * Testing to center an image in the svg
+ * @function Experience5
+ * Testing to get the data from a csv
  * @return {Object} Return the dom
  */
-const Experience1 = () => {
+const Experience = () => {
   const canvasRef = useRef()
 
   const init = async () => {
@@ -67,4 +67,4 @@ const Experience1 = () => {
   return <svg className="canvas" ref={canvasRef}></svg>
 }
 
-export default Experience1
+export default Experience

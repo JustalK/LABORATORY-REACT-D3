@@ -1,17 +1,17 @@
 /**
  * Draw a crosshair following the cursor
- * @module Experiences/Experience1
+ * @module Experiences/Experience2
  */
 
 import React, { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 
 /**
- * @function Experience1
+ * @function Experience
  * Draw a crosshair following the cursor
  * @return {Object} Return the dom
  */
-const Experience2 = () => {
+const Experience = () => {
   const canvasRef = useRef()
   const crossX = useRef(-1)
   const crossY = useRef(-1)
@@ -34,4 +34,4 @@ const Experience2 = () => {
   )
 }
 
-export default Experience2
+export default Experience

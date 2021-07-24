@@ -1,6 +1,6 @@
 /**
- * Testing to center an image in the svg
- * @module Experiences/Experience1
+ * Creating a bar chart in a div
+ * @module Experiences/Experience3
  */
 
 import React, { useEffect, useRef } from 'react'
@@ -9,11 +9,11 @@ import * as d3 from 'd3'
 const data = [4, 8, 15, 16, 23, 42]
 
 /**
- * @function Experience1
- * Testing to center an image in the svg
+ * @function Experience
+ * Creating a bar chart in a svg
  * @return {Object} Return the dom
  */
-const Experience1 = () => {
+const Experience = () => {
   const barRef = useRef()
   const canvasRef = useRef()
 
@@ -42,4 +42,4 @@ const Experience1 = () => {
   )
 }
 
-export default Experience1
+export default Experience
