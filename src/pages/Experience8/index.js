@@ -1,6 +1,6 @@
 /**
- * Testing to center an image in the svg
- * @module Experiences/Experience1
+ * Create a brush and limiting the area for the drawing
+ * @module Experiences/Experience8
  */
 
 import React, { useEffect, useRef, useState } from 'react'
@@ -8,7 +8,7 @@ import * as d3 from 'd3'
 
 /**
  * @function Experience1
- * Testing to center an image in the svg
+ * Create a brush and limiting the area for the drawing
  * @return {Object} Return the dom
  */
 const Experience1 = () => {
@@ -26,12 +26,13 @@ const Experience1 = () => {
       .attr('x', (width - size.width) / 2)
       .attr('y', (height - size.height) / 2)
     canvas.append('g').call(
-      d3
-        .brush() // Add the brush feature using the d3.brush function
-        .extent([
-          [0, 0],
-          [width, height]
-        ]) // initialise the brush area: start at 0,0 and finishes at width,height: it means I select the whole graph area
+      d3.brush().extent([
+        [(width - size.width) / 2, (height - size.height) / 2],
+        [
+          (width - size.width) / 2 + size.width,
+          (height - size.height) / 2 + size.height
+        ]
+      ])
     )
   })
 

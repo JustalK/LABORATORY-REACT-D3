@@ -23,7 +23,8 @@ I explain with all the details how I build the project and my way of working.
 - **Experience4**: Creating a bar chart in a svg
 - **Experience5**: Creating a chart from a csv
 - **Experience6**: Rotating a bar chart
-- **Experience6**: Adding a zoom and move on an image
+- **Experience7**: Adding a zoom and move on an image
+- **Experience8**: Using the brush for creating square on an image
 
 ## Documentation
 #### Code documentation
