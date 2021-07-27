@@ -35,6 +35,11 @@ The jsdoc can be generated locally with the following command :
 npm run build:docs
 ```
 
+#### Resources
+
+- [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
+- [Observable](https://observablehq.com/@d3)
+
 ## Organization
 #### Organization of the global folder
 
