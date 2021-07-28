@@ -25,6 +25,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience6**: Rotating a bar chart
 - **Experience7**: Adding a zoom and move on an image
 - **Experience8**: Using the brush for creating square on an image
+- **Experience9**: Saving the brush rectangle through the event
 
 ## Documentation
 #### Code documentation
