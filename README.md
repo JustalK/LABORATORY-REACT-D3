@@ -26,6 +26,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience7**: Adding a zoom and move on an image
 - **Experience8**: Using the brush for creating square on an image
 - **Experience9**: Saving the brush rectangle through the event
+- **Experience10**: Creating a movable annotation
 
 ## Documentation
 #### Code documentation
@@ -77,6 +78,7 @@ npm run build:docs
 - **jsdoc**: For managing the dev documentation of the project
 - **react-router-dom**: For managing the router and the path to the differents pages
 - **react-helmet**: For managing the meta of the differents page
+- **d3**: For managing the svg manipulation
 
 ## Running
 

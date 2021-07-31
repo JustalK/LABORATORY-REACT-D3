@@ -47,3 +47,19 @@ body {
   stroke: none;
   fill: red;
 }
+
+.relative {
+  position: relative;
+  overflow: hidden;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.tooltip {
+  padding: 20px;
+}
