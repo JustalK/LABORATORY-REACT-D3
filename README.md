@@ -2,7 +2,10 @@
 
 ## Goal
 
-This project is my testing with the d3.js library
+This project is my test with the library `D3.js`.
+This library is a JavaScript library for manipulating documents based on data. D3 helps bring data to life using HTML, SVG, and CSS.
+
+I am using the library on React for making a small website showing the result of my experiences. Feel free to comment since I am learning my way through D3.
 
 ## Plan of the presentation
 
