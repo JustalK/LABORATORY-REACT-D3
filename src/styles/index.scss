@@ -63,3 +63,15 @@ body {
 .tooltip {
   padding: 20px;
 }
+
+.marker {
+  fill: #31558d;
+  stroke: #31558d;
+  fill-opacity: .75;
+  transition: all .2s ease-in-out;
+  &:hover {
+    fill: #8d3155;
+    fill-opacity: 1;
+    cursor: pointer;
+  }
+}
