@@ -28,6 +28,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience9**: Saving the brush rectangle through the event
 - **Experience10**: Creating a movable annotation
 - **Experience11**: Creating a marker on click and a zoomable element
+- **Experience12**: Show an histogram showing how many time a number appears
 
 ## Documentation
 #### Code documentation
