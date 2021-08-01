@@ -29,6 +29,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience10**: Creating a movable annotation
 - **Experience11**: Creating a marker on click and a zoomable element
 - **Experience12**: Show an histogram showing how many time a number appears
+- **Experience13**: Create a bar graph with axis (compare to experience 5)
 
 ## Documentation
 #### Code documentation
@@ -41,6 +42,7 @@ npm run build:docs
 
 #### Resources
 
+- [D3 noob](https://bl.ocks.org/d3noob/)
 - [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
 - [Observable](https://observablehq.com/@d3)
 
