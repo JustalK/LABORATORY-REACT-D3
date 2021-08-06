@@ -1,6 +1,6 @@
 /**
- * Testing to add a marker on the image with the zoom control
- * @module Experiences/Experience1
+ * Creating a marker on click and a zoomable element
+ * @module Experiences/Experience11
  */
 
 import React, { useEffect, useRef, useState } from 'react'
@@ -8,7 +8,7 @@ import * as d3 from 'd3'
 
 /**
  * @function Experience1
- * Testing to add a marker on the image with the zoom control
+ * Creating a marker on click and a zoomable element
  * @return {Object} Return the dom
  */
 const Experience1 = () => {

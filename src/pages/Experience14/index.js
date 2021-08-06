@@ -1,6 +1,6 @@
 /**
- * Testing to center an image in the svg
- * @module Experiences/Experience1
+ * Understanding scaleLinear, scaleTime (basic)
+ * @module Experiences/Experience14
  */
 
 import React from 'react'
@@ -10,7 +10,7 @@ const datas = [0, 2, 3, 5, 7.5, 9, 10]
 
 /**
  * @function Experience1
- * Testing to center an image in the svg
+ * Understanding scaleLinear, scaleTime (basic)
  * @return {Object} Return the dom
  */
 const Experience1 = () => {

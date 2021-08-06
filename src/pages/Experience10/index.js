@@ -1,6 +1,6 @@
 /**
- * Testing to center an image in the svg
- * @module Experiences/Experience1
+ * Creating a movable annotation
+ * @module Experiences/Experience10
  */
 
 import React, { useEffect, useRef, useState } from 'react'
@@ -10,7 +10,7 @@ import Children from './Children'
 
 /**
  * @function Experience1
- * Testing to center an image in the svg
+ * Creating a movable annotation
  * @return {Object} Return the dom
  */
 const Experience1 = () => {

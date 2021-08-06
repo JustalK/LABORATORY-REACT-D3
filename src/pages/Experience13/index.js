@@ -1,6 +1,6 @@
 /**
  * Create a bar graph with axis (compare to experience 5)
- * @module Experiences/Experience5
+ * @module Experiences/Experience13
  */
 
 import React, { useEffect, useRef, useState } from 'react'
