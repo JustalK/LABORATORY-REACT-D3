@@ -36,7 +36,8 @@ I explain with all the details how I build the project and my way of working.
 - **Experience12**: Show an histogram showing how many time a number appears
 - **Experience13**: Create a bar graph with axis (compare to experience 5)
 - **Experience14**: Understanding scaleLinear, scaleTime (basic)
-- **Experience14**: Understanding scaleBand (basic)
+- **Experience15**: Understanding scaleBand (basic)
+- **Experience16**: Creating a line chart
 
 ## Documentation
 #### Code documentation
