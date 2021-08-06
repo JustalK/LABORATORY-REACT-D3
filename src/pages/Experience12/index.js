@@ -1,6 +1,6 @@
 /**
  * Show an histogram showing how many time a number appears
- * @module Experiences/Experience1
+ * @module Experiences/Experience12
  */
 
 import React, { useEffect, useRef, useState } from 'react'
