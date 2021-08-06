@@ -19,8 +19,8 @@ const parseTime = d3.timeParse('%d-%b-%y')
 const Experience1 = () => {
   const canvasRef = useRef()
   const [size] = useState({
-    width: 500 - margin.left - margin.right,
-    height: 1000 - margin.top - margin.bottom
+    width: 1000 - margin.left - margin.right,
+    height: 500 - margin.top - margin.bottom
   })
 
   const init = async () => {
