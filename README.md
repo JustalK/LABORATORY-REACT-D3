@@ -9,6 +9,8 @@ This library is a JavaScript library for manipulating documents based on data. D
 
 I am using the library on React for making a small website showing the result of my experiences. Feel free to comment since I am learning my way through D3.
 
+After, some research, I was using the D3.js wrongly. D3.js is not a charting package but more like a drawing library. For charting, it might be more interesting to use Chart.js
+
 ## Plan of the presentation
 
 I explain with all the details how I build the project and my way of working.
